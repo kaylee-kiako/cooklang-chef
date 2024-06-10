@@ -1,3 +1,18 @@
+# Goals of the Fork
+
+My intention with this fork is to expand the search functionality. Current functionality and goals are as follows:
+
+-[x] Search by title keyword.
+  - Syntax: `<keyword>`
+-[x] Search by tag.
+  - Syntax: `tag:<keyword>`
+-[x] Support both-and search terms ("both A and B")
+  - Syntax: `<term> <term>`
+-[ ] Search by ingredient.
+-[ ] Search excluding term. ("not A")
+-[ ] Support logically grouping search terms ("not both A and B")
+-[ ] Support either-or search terms ("either A or B")
+
 # cooklang-chef
 
 A CLI to manage [cooklang](https://cooklang.org/) recipes with extensions.
