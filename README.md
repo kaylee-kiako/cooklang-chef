@@ -12,10 +12,11 @@ My intention with this fork is to expand the search functionality. Current funct
   - Syntax: `uses:<keyword>`
 - [x] Search by cookware.
   - Syntax: `needs:<keyword>`
-- [x] Search for tokens that contain spaces.
-  - Syntax: `<a>+<b>+<c>`, for example, `uses:black+beans`
 - [x] Search excluding term. ("not A")
   - Syntax: `!<term>`, for example, `!needs:oven`
+- [x] Search for tokens that contain spaces.
+  - Syntax: `<a>+<b>+<c>`, for example, `uses:black+beans`
+- [ ] Support partial matches ("car" matches "carrot")
 - [ ] Support logically grouping search terms ("not both A and B")
 - [ ] Support either-or search terms ("either A or B")
 
