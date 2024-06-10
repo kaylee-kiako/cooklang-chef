@@ -9,9 +9,9 @@ My intention with this fork is to expand the search functionality. Current funct
 - [x] Support both-and search terms ("both A and B")
   - Syntax: `<term> <term>`
 - [x] Search by ingredient.
-  - Syntax: `uses:<keyword>`
+  - Syntax: `ingredient:<keyword>`
 - [x] Search by cookware.
-  - Syntax: `needs:<keyword>`
+  - Syntax: `cookware:<keyword>`
 - [x] Search excluding term. ("not A")
   - Syntax: `!<term>`, for example, `!needs:oven`
 - [x] Search for tokens that contain spaces.
