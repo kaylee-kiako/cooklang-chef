@@ -8,7 +8,7 @@ My intention with this fork is to expand the search functionality. Current funct
   - Syntax: `tag:<keyword>`
 - [x] Support both-and search terms ("both A and B")
   - Syntax: `<term> <term>`
-- [ ] Search by ingredient.
+- [x] Search by ingredient.
   - Syntax: `uses:<keyword>`
 - [ ] Search by cookware.
 - [ ] Search for tokens that contain spaces.
