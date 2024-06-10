@@ -9,6 +9,7 @@ My intention with this fork is to expand the search functionality. Current funct
 - [x] Support both-and search terms ("both A and B")
   - Syntax: `<term> <term>`
 - [ ] Search by ingredient.
+- [ ] Search by cookware.
 - [ ] Search excluding term. ("not A")
 - [ ] Support logically grouping search terms ("not both A and B")
 - [ ] Support either-or search terms ("either A or B")
