@@ -10,7 +10,8 @@ My intention with this fork is to expand the search functionality. Current funct
   - Syntax: `<term> <term>`
 - [x] Search by ingredient.
   - Syntax: `uses:<keyword>`
-- [ ] Search by cookware.
+- [x] Search by cookware.
+  - Syntax: `needs:<keyword>`
 - [ ] Search for tokens that contain spaces.
 - [ ] Search excluding term. ("not A")
 - [ ] Support logically grouping search terms ("not both A and B")
