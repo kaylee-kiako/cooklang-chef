@@ -13,7 +13,7 @@ My intention with this fork is to expand the search functionality. Current funct
 - [x] Search by cookware.
   - Syntax: `cookware:<keyword>`
 - [x] Search excluding term. ("not A")
-  - Syntax: `!<term>`, for example, `!needs:oven`
+  - Syntax: `!<term>`, for example, `!cookware:oven`
 - [x] Search for tokens that contain spaces.
   - Syntax: `<a>+<b>+<c>`, for example, `uses:black+beans`
 - [x] Support partial matches for tags, ingredients, and cookware ("uses:car" matches "uses:carrot")
