@@ -17,8 +17,10 @@ My intention with this fork is to expand the search functionality. Current funct
 - [x] Search for tokens that contain spaces.
   - Syntax: `<a>+<b>+<c>`, for example, `uses:black+beans`
 - [x] Support partial matches for tags, ingredients, and cookware ("uses:car" matches "uses:carrot")
-- [ ] Support logically grouping search terms ("not both A and B")
-- [ ] Support either-or search terms ("either A or B")
+- [x] Support logically grouping search terms ("not both A and B")
+  - Syntax `(<terms>)`
+- [x] Support either-or search terms ("either A or B")
+  - Syntax: `<terms> | <terms>`
 
 # cooklang-chef
 
